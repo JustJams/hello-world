@@ -1,2 +1,5 @@
 # hello-world
-My first respitory
+
+Hello!
+
+My name is Jamie and I like Web Development and Mc Server Development!
